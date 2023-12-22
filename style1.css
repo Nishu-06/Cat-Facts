@@ -1,0 +1,24 @@
+h1{
+    color:purple;
+    font-style: italic;
+    font-weight: 1000px;
+}
+
+button{
+    color: bisque;
+    background-color: black;
+    
+}
+p{
+    font-style:normal;
+    height: 50px;
+    font-size:large;
+    box-shadow: inset;
+}
+body{
+    background-image: url('cat.gif');
+    background-repeat:repeat-y;
+    background-size:auto;
+    background-position:right;
+    background-color:#CBC3E3;
+}
